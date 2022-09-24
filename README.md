@@ -5,7 +5,7 @@ Make sure you have a .CBR reader installed.
 ## Setup
 1. Make sure you have python3 installed. Otherwise you can install it [here](https://www.python.org/downloads/)  
 
-2. Make sure you've cloned this repository locally  
+2. Clone this repository locally  
 
 3. Open the terminal in the local repository:  
 Run: `python -m virtualenv venv`  
