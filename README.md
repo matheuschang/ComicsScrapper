@@ -9,7 +9,7 @@ Make sure you have a .CBR reader installed.
 
 3. Open the terminal in your local repository:  
 3.1 Run: `python -m virtualenv venv`  
-3.2 Activate you virtual enviroment:  
+3.2 Activate your virtual enviroment:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Windows:</i> `venv\Scripts\activate`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ib>Linux:</i> `venv/bin/activate`  
 3.3 Run: `pip install -r requirements.txt`  
