@@ -1,2 +1,6 @@
 venv/
 comics/
+credentials.json
+settings.yaml
+drive_upload.py
+client_secrets.json
